@@ -1,0 +1,67 @@
+/* Top Styles */
+
+#top {
+    background: #1d1d1d;
+    padding: 10px 0;
+}
+
+#top .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#top .offer {
+    color: #ffffff;
+}
+
+#top .offer .btn {
+    text-transform: uppercase;
+}
+
+#top a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#top ul.menu {
+    padding-top: 5px;
+    margin: 0px;
+    text-align: right;
+    font-size: 13px;
+    list-style: none;
+}
+
+#top ul.menu > li {
+    display: inline-block;
+}
+
+#top ul.menu > li a {
+    color: #eeeeee;
+}
+
+#top ul.menu > li a:hover {
+    color: #b6b6b6;
+}
+
+#top ul.menu > li + li:before {
+    content: "|\00a0";
+    color: #f7f7f7;
+    padding: 0 5px;
+}
+
+
+@media(max-width: 991px){
+    #top {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    #top .offer {
+        margin-bottom: 10px;
+    }
+
+    #top ul.menu {
+        text-align: center;
+    }
+}

@@ -1,0 +1,56 @@
+# Equipe 1
+Clément
+Camille
+Yacine
+Fred
+
+# Equipe 2
+Olivier
+Romain
+Anne
+Laura
+Elyas
+
+# Equipe 3
+Alberto
+Violette
+Marwane
+Sohayeb
+
+
+# Equipe 4
+Florian
+Eddine
+Christopher
+Yanis
+
+
+
+##################################
+
+Projet e-commerce
+
+- ajout d'un produit // Alberto
+- modification d'un produit // Sohayeb
+- suppression d'un produit // Marwane
+- affichage d'un produit // Violette
+- affichage de tous les produits // on en parlera
+
+==
+Compte utilisateur: 
+- connexion
+- déconnexion
+- inscription
+- perte mot de passe
+
+
+Categories:
+
+$categories= [
+    
+	't-shirt' 		=> 'T-shirts',
+	'sweaters' 		=> 'Pulls',
+	'jeans'	    	=> 'Pantalons',
+	'accessories' 	=> 'Accessoires',
+	'shoes' 		=> 'Chaussures',
+];

@@ -1,0 +1,60 @@
+# Equipe 1
+Clément
+Camille
+Yacine
+Fred
+
+# Equipe 2
+Olivier
+Romain
+Anne
+Laura
+Elyas
+
+# Equipe 3
+Alberto
+Violette
+Marwane
+Sohayeb
+
+
+# Equipe 4
+Florian
+Eddine
+Christopher
+Yanis
+
+
+
+##################################
+
+Projet e-commerce
+
+- ajout d'un produit (avec upload)
+- modification d'un produit
+- suppression d'un produit
+- affichage d'un produit
+- affichage de tous les produits
+
+==
+Compte utilisateur: 
+- connexion
+- déconnexion
+- inscription
+- perte mot de passe
+
+
+
+- obligation d'utiliser github
+- afficher sur la homepage 4 derniers produits de manière aléatoire
+- ajouter pour les utilisateurs, une colonne SQL "role" (admin / membre)
+	par défaut, un utilisateur sera "membre" lors de son inscription
+	autoriser l'ajout de produit, modification suppression uniquement pour un utilisateur ayant le role "admin"
+
+- permettre à un utilisateur d'ajouter un avis sur un produit
+
+
+
+
+
+
